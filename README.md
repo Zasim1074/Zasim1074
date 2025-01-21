@@ -2,7 +2,7 @@
 - 👀 I’m interested in being involved in new Projects.
 - 🌱 I’m currently learning Backend.
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me through Email- rdgvszasi@gmail.com
+- 📫 Reach me through Email- rdgvszasim@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Chill
 
