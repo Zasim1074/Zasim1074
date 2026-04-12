@@ -7,7 +7,7 @@ Frontend Engineer (React) focused on performance and real-time systems.
 - Experience building scalable UI systems and handling complex async data
 
 ## Tech Stack
-React, JavaScript, TypeScript, React Query, WebSockets, REST APIs
+React.js, Next.js, JavaScript, TypeScript, React Query, WebSockets, REST APIs
 
 ## Projects
 - TrackHire → Job tracking platform with role-based dashboards
