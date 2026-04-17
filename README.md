@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/jaseem-quraishi/">
     <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="./Jaseem_Quraishi_Frontend_Developer_Resume.pdf">
+  <a href="https://docs.google.com/document/d/1_1lrN_8E4yJmf8emc7gMcQCuBBCk0OOwFdoB7OQY4y4/export?format=pdf">
     <img src="https://img.shields.io/badge/Resume-0891b2?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
   </a>
 </p>
