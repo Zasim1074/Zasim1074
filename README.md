@@ -24,9 +24,9 @@
   </a>
 </p>
 
-<img align="right" width="380" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ## About Me
+
+<img align="right" width="380" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 I am a frontend engineer focused on building fast, reliable, and scalable user experiences with React. I enjoy turning complex product flows into clean interfaces, especially where performance, real-time updates, and async data handling matter.
 
