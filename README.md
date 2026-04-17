@@ -88,5 +88,5 @@ If you are building a frontend-heavy product and care about performance, real-ti
 - Portfolio: [jaseem-codes.vercel.app](https://jaseem-codes.vercel.app/)
 - LinkedIn: [linkedin.com/in/jaseem-quraishi](https://www.linkedin.com/in/jaseem-quraishi/)
 - GitHub: [github.com/Zasim1074](https://github.com/Zasim1074)
-- Resume: [Jaseem_Quraishi_Frontend_Developer_Resume.pdf](./Jaseem_Quraishi_Frontend_Developer_Resume.pdf)
+- Resume: [Jaseem_Quraishi_Frontend_Developer_Resume.pdf](https://docs.google.com/document/d/1_1lrN_8E4yJmf8emc7gMcQCuBBCk0OOwFdoB7OQY4y4/export?format=pdf)
 - Email: [rdgvszasim@gmail.com](mailto:rdgvszasim@gmail.com)
