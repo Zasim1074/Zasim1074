@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/jaseem-quraishi/">
     <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://docs.google.com/document/d/1_1lrN_8E4yJmf8emc7gMcQCuBBCk0OOwFdoB7OQY4y4/export?format=pdf">
+  <a href="https://docs.google.com/document/d/19D_BMhAcrjJqbBVQrMn7y4waBHo2xmsOpoprTVGgMNM/export?format=pdf">
     <img src="https://img.shields.io/badge/Resume-0891b2?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
   </a>
 </p>
@@ -88,5 +88,5 @@ If you are building a frontend-heavy product and care about performance, real-ti
 - Portfolio: [jaseem-codes.vercel.app](https://jaseem-codes.vercel.app/)
 - LinkedIn: [linkedin.com/in/jaseem-quraishi](https://www.linkedin.com/in/jaseem-quraishi/)
 - GitHub: [github.com/Zasim1074](https://github.com/Zasim1074)
-- Resume: [Jaseem_Quraishi_Frontend_Developer_Resume.pdf](https://docs.google.com/document/d/1_1lrN_8E4yJmf8emc7gMcQCuBBCk0OOwFdoB7OQY4y4/export?format=pdf)
+- Resume: [Jaseem_Quraishi_Frontend_Developer_Resume.pdf](https://docs.google.com/document/d/19D_BMhAcrjJqbBVQrMn7y4waBHo2xmsOpoprTVGgMNM/export?format=pdf)
 - Email: [rdgvszasim@gmail.com](mailto:rdgvszasim@gmail.com)
