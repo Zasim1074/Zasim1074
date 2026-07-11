@@ -68,6 +68,10 @@ Frontend Developer focused on building responsive, scalable, and performance-con
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zasim1074&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Zasim1074&theme=github-dark&hide_border=true"/>
+</p>
+
 
 
 
