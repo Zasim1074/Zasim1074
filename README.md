@@ -15,7 +15,7 @@
 
 ---
 
-## About
+## 👋 About Me
 
 <img align="right" width="380" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
