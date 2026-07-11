@@ -63,11 +63,6 @@ I specialize in optimizing frontend performance, building scalable architectures
 
 # 📈 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zasim1074&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zasim1074&layout=compact&theme=github_dark&hide_border=true"/>
-<img src="https://komarev.com/ghpvc/?username=Zasim1074&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-</p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zasim1074&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
@@ -77,6 +72,7 @@ I specialize in optimizing frontend performance, building scalable architectures
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zasim1074&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Zasim1074&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://komarev.com/ghpvc/?username=Zasim1074&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 </p>
 
 <p align="center">
