@@ -49,7 +49,7 @@ I specialize in optimizing frontend performance, building scalable architectures
 
 <!-- <br/> -->
 
-# 🎯 What I Focus On
+<!-- # 🎯 What I Focus On
 
 - ⚡ Frontend Performance Engineering
 - 🏗️ Scalable React Architecture
@@ -57,7 +57,7 @@ I specialize in optimizing frontend performance, building scalable architectures
 - 📦 Reusable Component Systems
 - 📊 Data-intensive Dashboards
 - 🚀 Clean Developer Experience
-- 🎨 Responsive UI & Accessibility
+- 🎨 Responsive UI & Accessibility -->
 
 <!-- <br/> -->
 
