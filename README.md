@@ -122,22 +122,6 @@ Currently at **FloorWalk Consultants Pvt. Ltd.**, I've worked on production appl
 
 ---
 
-# 💼 Experience
-
-## Frontend Developer
-
-**FloorWalk Consultants Pvt. Ltd.**  
-📅 Aug 2025 – Present
-
-- Reduced production bundle from **70MB → 13MB (-81%)** through dead code elimination, tree shaking, and image optimization.
-- Built **high-frequency real-time dashboards** powered by WebSockets while minimizing unnecessary re-renders.
-- Developed a **Real Estate CRM** supporting leads, brokers, properties, and role-based workflows.
-- Designed a custom API layer with **caching and retry logic**, reducing redundant API requests.
-- Used **Chrome DevTools** profiling to identify and eliminate rendering bottlenecks.
-- Collaborated with backend engineers to reduce unnecessary WebSocket traffic and lower server load.
-- Built reusable UI components adopted across **5+ product modules**.
-
----
 
 # 🛠 Tech Stack
 
@@ -183,22 +167,6 @@ Currently at **FloorWalk Consultants Pvt. Ltd.**, I've worked on production appl
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **TrackHire** | Job application tracking platform with authentication, dashboards, and interview workflow management. | React • Supabase • Clerk |
-| **Hotel Sanwariya** | Modern hotel website focused on SEO, responsive design, and high performance. | Next.js • TypeScript • Tailwind CSS |
-| **Code Book** | Browser-based AI-powered code editor supporting execution, syntax highlighting, and AI assistance. | React • Monaco Editor • Judge0 • Gemini API |
-
-### 🔗 Live Projects
-
-- 🌐 **TrackHire** — https://track-hire-jq.vercel.app
-- 🌐 **Hotel Sanwariya** — https://sanwariyahotel.com
-- 🌐 **Code Book** — https://code-book1.vercel.app
-
----
-
 # 🎯 What I Focus On
 
 - ⚡ Frontend Performance Engineering
@@ -220,20 +188,6 @@ Currently at **FloorWalk Consultants Pvt. Ltd.**, I've worked on production appl
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Zasim1074&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-# 📫 Let's Connect
-
-I'm currently **open to Frontend Developer opportunities**, especially product-based companies in **Delhi NCR**.
-
-<p align="center">
-<a href="mailto:jaseem1quraishi@gmail.com">📧 Email</a> •
-<a href="https://jaseem-codes.vercel.app">🌐 Portfolio</a> •
-<a href="https://www.linkedin.com/in/jaseem-quraishi">💼 LinkedIn</a> •
-<a href="https://github.com/Zasim1074">🐙 GitHub</a> •
-<a href="https://docs.google.com/document/d/19D_BMhAcrjJqbBVQrMn7y4waBHo2xmsOpoprTVGgMNM/export?format=pdf">📄 Resume</a>
 </p>
 
 ---
