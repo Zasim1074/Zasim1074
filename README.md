@@ -25,8 +25,6 @@ I'm a **Frontend Developer** with **1+ year of production experience** building 
 
 I specialize in optimizing frontend performance, building scalable architectures, and creating responsive user experiences for data-intensive products.
 
-Currently at **FloorWalk Consultants Pvt. Ltd.**, I've worked on production applications where I reduced bundle size by **81% (70MB → 13MB)**, engineered real-time WebSocket dashboards, and built reusable component systems across multiple product modules.
-
 - 🚀 Reduced production bundle size by **81%**
 - ⚡ Built real-time dashboards using **WebSockets**
 - 🏗️ Developed reusable architecture across **5+ modules**
