@@ -24,7 +24,7 @@ Frontend Developer focused on building responsive, scalable, and performance-con
 - Designed reusable UI across **5+ modules**
 - Optimized API handling with **caching and retries**
 
----
+<!-- --- -->
 
 ## Tech Stack
 
