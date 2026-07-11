@@ -190,12 +190,6 @@ Currently at **FloorWalk Consultants Pvt. Ltd.**, I've worked on production appl
 <img src="https://streak-stats.demolab.com?user=Zasim1074&theme=github-dark&hide_border=true"/>
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zasim1074&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 </p>
-
-<p align="center">
-  <i>"Building fast, scalable, and maintainable frontend experiences."</i>
-</p> -->
