@@ -32,7 +32,7 @@ Frontend Developer focused on building responsive, scalable, and performance-con
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,git,github,postman,vercel" />
 </p>
 
----
+<!-- --- -->
 <!-- 
 ## Featured Projects
 
