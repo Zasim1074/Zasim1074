@@ -56,13 +56,6 @@ Frontend Developer focused on building responsive, scalable, and performance-con
 
 ---
 
-## Contact
-
-- **Portfolio:** https://jaseem-codes.vercel.app
-- **LinkedIn:** https://www.linkedin.com/in/jaseem-quraishi
-- **GitHub:** https://github.com/Zasim1074
-- **Email:** jaseem1quraishi@gmail.com
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zasim1074&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 </p>
