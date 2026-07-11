@@ -37,7 +37,7 @@ I specialize in optimizing frontend performance, building scalable architectures
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,git,github,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,git,github,postman,vercel,python,sql" />
 </p>
 
 <br clear="right"/>
