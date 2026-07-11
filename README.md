@@ -43,7 +43,7 @@ Frontend Developer focused on building responsive, scalable, and performance-con
 | **Code Book** | React • Monaco Editor • Judge0 • Gemini API | [Live](https://code-book1.vercel.app) |
 
 --- -->
-
+<!-- 
 ## Experience
 
 **Frontend Developer** — *FloorWalk Consultants Pvt. Ltd.*  
@@ -52,7 +52,7 @@ Frontend Developer focused on building responsive, scalable, and performance-con
 - Reduced production bundle size by **81%**
 - Built high-frequency dashboards with WebSockets
 - Developed a Real Estate CRM with role-based workflows
-- Created reusable UI components across multiple modules
+- Created reusable UI components across multiple modules -->
 
 <!-- --- -->
 <!-- <p align="center">
