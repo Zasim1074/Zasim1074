@@ -40,9 +40,9 @@ Frontend Developer focused on building responsive, scalable, and performance-con
 |---|---|---|
 | **TrackHire** | React • Supabase • Clerk | [Live](https://track-hire-jq.vercel.app) |
 | **Hotel Sanwariya** | Next.js • TypeScript • Tailwind CSS | [Live](https://sanwariyahotel.com) |
-| **Code Book** | React • Monaco Editor • Judge0 • Gemini API | [Live](https://code-book1.vercel.app) | -->
+| **Code Book** | React • Monaco Editor • Judge0 • Gemini API | [Live](https://code-book1.vercel.app) |
 
----
+--- -->
 
 ## Experience
 
