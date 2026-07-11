@@ -47,7 +47,7 @@ I specialize in optimizing frontend performance, building scalable architectures
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
 </p>
 
-<br clear="right"/>
+<!-- <br/> -->
 
 # 🎯 What I Focus On
 
@@ -67,6 +67,11 @@ I specialize in optimizing frontend performance, building scalable architectures
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zasim1074&show_icons=true&theme=github_dark&hide_border=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zasim1074&layout=compact&theme=github_dark&hide_border=true"/>
 <img src="https://komarev.com/ghpvc/?username=Zasim1074&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zasim1074&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zasim1074&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
