@@ -59,7 +59,7 @@ I specialize in optimizing frontend performance, building scalable architectures
 - 🚀 Clean Developer Experience
 - 🎨 Responsive UI & Accessibility
 
-<br/>
+<!-- <br/> -->
 
 # 📈 GitHub Stats
 
