@@ -26,63 +26,13 @@ Frontend Developer focused on building responsive, scalable, and performance-con
 - Designed reusable UI across **5+ modules**
 - Optimized API handling with **caching and retries**
 
-<!-- --- -->
+---
 
 ## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,git,github,postman,vercel" />
 </p>
-
-<!-- --- -->
-<!-- 
-## Featured Projects
-
-| Project | Tech | Link |
-|---|---|---|
-| **TrackHire** | React • Supabase • Clerk | [Live](https://track-hire-jq.vercel.app) |
-| **Hotel Sanwariya** | Next.js • TypeScript • Tailwind CSS | [Live](https://sanwariyahotel.com) |
-| **Code Book** | React • Monaco Editor • Judge0 • Gemini API | [Live](https://code-book1.vercel.app) |
-
---- -->
-<!-- 
-## Experience
-
-**Frontend Developer** — *FloorWalk Consultants Pvt. Ltd.*  
-*Aug 2025 – Present*
-
-- Reduced production bundle size by **81%**
-- Built high-frequency dashboards with WebSockets
-- Developed a Real Estate CRM with role-based workflows
-- Created reusable UI components across multiple modules -->
-
-<!-- --- -->
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zasim1074&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-</p> -->
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zasim1074&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zasim1074&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Zasim1074&theme=github-dark&hide_border=true"/>
-</p>
-
-
-
-
-
-
-
-
-<!-- =================================================================================================== -->
-<!-- =================================================================================================== -->
 
 ## What I Focus On
 
@@ -91,15 +41,6 @@ Frontend Developer focused on building responsive, scalable, and performance-con
 - UI systems that stay maintainable as products grow
 - Building polished interfaces that still feel fast and practical
 
-## Connect
-
-If you are building a frontend-heavy product and care about performance, real-time UX, or clean React architecture, I would be happy to connect.
-
-- Portfolio: [jaseem-codes.vercel.app](https://jaseem-codes.vercel.app/)
-- LinkedIn: [linkedin.com/in/jaseem-quraishi](https://www.linkedin.com/in/jaseem-quraishi/)
-- GitHub: [github.com/Zasim1074](https://github.com/Zasim1074)
-- Resume: [Jaseem_Quraishi_Frontend_Developer_Resume.pdf](https://docs.google.com/document/d/19D_BMhAcrjJqbBVQrMn7y4waBHo2xmsOpoprTVGgMNM/export?format=pdf)
-- Email: [jaseem1quraishi@gmail.com](mailto:jaseem1quraishi@gmail.com) -->
 
 # 👋 About Me
 
