@@ -54,9 +54,7 @@ Frontend Developer focused on building responsive, scalable, and performance-con
 - Developed a Real Estate CRM with role-based workflows
 - Created reusable UI components across multiple modules
 
-<!-- 
----
- <!-- profile views -->
-<p align="center">
+<!-- --- -->
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zasim1074&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 </p> -->
