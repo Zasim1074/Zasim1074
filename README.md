@@ -15,8 +15,6 @@
 
 ---
 
-
-
 # 👋 About Me
 
 <img align="right" width="380" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -43,13 +41,13 @@ I specialize in optimizing frontend performance, building scalable architectures
 <p align="left">
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
 </p>
 
 <br clear="right"/>
-
 
 # 🎯 What I Focus On
 
@@ -61,7 +59,6 @@ I specialize in optimizing frontend performance, building scalable architectures
 - 🚀 Clean Developer Experience
 - 🎨 Responsive UI & Accessibility
 
-
 <br/>
 
 # 📈 GitHub Stats
@@ -69,6 +66,7 @@ I specialize in optimizing frontend performance, building scalable architectures
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zasim1074&show_icons=true&theme=github_dark&hide_border=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zasim1074&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://komarev.com/ghpvc/?username=Zasim1074&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -76,5 +74,4 @@ I specialize in optimizing frontend performance, building scalable architectures
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zasim1074&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 </p>
