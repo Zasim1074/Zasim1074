@@ -45,7 +45,6 @@ Currently at **FloorWalk Consultants Pvt. Ltd.**, I've worked on production appl
 <br clear="right"/>
 
 
-
 # 🎯 What I Focus On
 
 - ⚡ Frontend Performance Engineering
@@ -56,7 +55,8 @@ Currently at **FloorWalk Consultants Pvt. Ltd.**, I've worked on production appl
 - 🚀 Clean Developer Experience
 - 🎨 Responsive UI & Accessibility
 
----
+
+<br/>
 
 # 📈 GitHub Stats
 
