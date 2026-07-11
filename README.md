@@ -36,8 +36,16 @@ I specialize in optimizing frontend performance, building scalable architectures
 
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,git,github,postman,vercel,python,sql" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,js,html,css,tailwind,git,github,postman,vercel,python,sql" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
 </p>
 
 <br clear="right"/>
