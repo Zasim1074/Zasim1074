@@ -15,13 +15,6 @@
 
 ---
 
-## Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,git,github,postman,vercel" />
-</p>
-
-
 # 👋 About Me
 
 <img align="right" width="380" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -40,6 +33,12 @@ Currently at **FloorWalk Consultants Pvt. Ltd.**, I've worked on production appl
 - 🔄 Open to relocating to **Delhi NCR**
 
 <br clear="right"/>
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,git,github,postman,vercel" />
+</p>
 
 ---
 
