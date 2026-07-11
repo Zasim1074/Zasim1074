@@ -40,7 +40,7 @@ Currently at **FloorWalk Consultants Pvt. Ltd.**, I've worked on production appl
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,git,github,postman,vercel" />
 </p>
 
----
+
 
 # 🎯 What I Focus On
 
