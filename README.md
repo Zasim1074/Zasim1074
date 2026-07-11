@@ -17,6 +17,8 @@
 
 ## About
 
+<img align="right" width="380" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 Frontend Developer focused on building responsive, scalable, and performance-conscious web experiences with React and Next.js.
 
 - Reduced bundle size from **70MB to 13MB**
