@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Jaseem%20Quraishi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%Python%20%7C%20Database&descAlignY=58&descAlign=50" alt="Jaseem Quraishi banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Jaseem%20Quraishi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Python%20%7C%20Database&descAlignY=58&descAlign=50" alt="Jaseem Quraishi banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+building+fast+React+apps;Performance+focused+%7C+Clean+UI+%7C+Scalable+Architecture;Open+to+Full+Stack+Opportunities" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+building+fast+applications;Performance+focused+%7C+Clean+UI+%7C+Scalable+Architecture;Open+to+Full+Stack+Opportunities" alt="Typing animation" />
 </p>
 
 <p align="center">
