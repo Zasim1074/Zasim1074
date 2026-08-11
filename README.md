@@ -38,7 +38,7 @@ I enjoy solving engineering problems around **performance optimization, API arch
 ## Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,python,fastapi,postgres,git,github,postman,docker,vercel" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,python,fastapi,postgres,git,github,postman,docker" />
 </p>
 
 <p align="left">
