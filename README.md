@@ -1,47 +1,59 @@
-# Jaseem Quraishi
-Full Stack Developer | React, Next.js, TypeScript | Python, FastAPI, PostgreSQL  
-Indore, India | Open to Full Stack roles in Delhi NCR
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Jaseem%20Quraishi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%Python%20%7C%20Database&descAlignY=58&descAlign=50" alt="Jaseem Quraishi banner" />
+</p>
 
-[![Email](https://img.shields.io/badge/Email-jaseem1quraishi%40gmail.com-4B5563?style=flat)](mailto:jaseem1quraishi@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat)](https://jaseem-codes.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat)](https://www.linkedin.com/in/jaseem-quraishi) [![Download Resume](https://img.shields.io/badge/Download-Resume-15803D?style=flat)](https://github.com/Zasim1074/Zasim1074/blob/main/resume/Jaseem_Quraishi_Resume.pdf)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+building+fast+React+apps;Performance+focused+%7C+Clean+UI+%7C+Scalable+Architecture;Open+to+Full+Stack+Opportunities" alt="Typing animation" />
+</p>
 
-## About
-<table width="100%">
-  <tr>
-    <td width="64%" valign="middle">
-      <p>I’m a Frontend Developer at FloorWalk Consultants Pvt. Ltd., where I also build backend APIs in Python and FastAPI. I have 1+ year of professional experience and am open to relocating from Indore to Delhi NCR for a Full Stack Developer role. My work includes production features, internal tools, and API development. I’m looking for opportunities with product companies.</p>
-    </td>
-    <td width="36%" align="right" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Software engineer coding at a laptop">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="mailto:jaseem1quraishi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://jaseem-codes.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0284c7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Zasim1074">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/jaseem-quraishi">
+    <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-## What I've Shipped
-- Reduced a production build from 70 MB to 13 MB (about 81%) by removing unused libraries and dead code, compressing images, and adding lazy loading; manual load-time testing improved from roughly 6–8 seconds to 3–4 seconds.
-- Implemented backend APIs for a production AI report-analysis feature: a scheduled weekly job sends approved audit reports in a batch to the Claude API, stores the results in the database, and displays them in the client portal.
-- Built the frontend of a real-estate CRM with Next.js, React, and TypeScript, used daily by 10–15 internal users, with role-based access control.
-- Built WebSocket-driven dashboards that push report updates, analytics, and notification counts without a page refresh.
+---
 
-## Projects
-- **TrackHire** — Job application tracker for applications, companies, interviews, resumes, and activity. [Live app](https://track-hire-jq.vercel.app) · Repositories: <!-- TODO: frontend repo URL --> · <!-- TODO: confirm https://github.com/Zasim1074/track-hire-api -->  
-  Stack: React, TanStack Query, shadcn/ui, FastAPI, PostgreSQL, SQLAlchemy 2.0, Alembic, JWT auth, Pytest, React Testing Library.
-- **Job Portal Backend** — Backend project with registration, login, JWT auth, repository/service/router layering, and migrations. Repository: <!-- TODO: repo URL -->  
-  Stack: FastAPI, PostgreSQL, SQLAlchemy 2.0, Alembic, Docker, Pytest.
+# 👋 About Me
+
+<img align="right" width="380" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+I'm a **Full Stack Developer** with **1+ year of professional experience** building production-grade web applications.
+
+I specialize in building **scalable, high-performance applications across the full stack**, from responsive React and Next.js interfaces to Python/FastAPI backends, REST APIs, authentication, and database-driven systems.
+
+I enjoy solving engineering problems around **performance optimization, API architecture, real-time systems, database design, and maintainable application architecture**.
+
+<br clear="right"/>
 
 ## Tech Stack
 
-**Frontend**  
-![Frontend technologies: React, Next.js, TypeScript, JavaScript, Redux, Tailwind CSS, HTML, CSS](https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css)  
-shadcn/ui · TanStack Query · WebSockets
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,python,fastapi,postgres,git,github,postman,docker" />
+</p>
 
-**Backend**  
-![Backend technologies: Python, FastAPI](https://skillicons.dev/icons?i=python,fastapi)  
-SQLAlchemy · Pydantic · Alembic · JWT · Pytest
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <!-- <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" /> -->
+  <!-- <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" /> -->
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/Alembic-2E7D32?style=for-the-badge&logo=alembic&logoColor=white" 
+  alt="Alembic"/>
+</p>
 
-**Data**  
-![Data technology: PostgreSQL](https://skillicons.dev/icons?i=postgres)
+# 📈 GitHub Stats
 
-**Tools**  
-![Tools: Git, GitHub, Postman, Docker, Vercel](https://skillicons.dev/icons?i=git,github,postman,docker,vercel)
-
-[Resume](https://github.com/Zasim1074/Zasim1074/blob/main/resume/Jaseem_Quraishi_Resume.pdf) | [Portfolio](https://jaseem-codes.vercel.app) | [LinkedIn](https://www.linkedin.com/in/jaseem-quraishi)
+<p align="center" justify="center">
+<img src="https://streak-stats.demolab.com?user=Zasim1074&theme=github-dark&hide_border=true"/>
+</p>
