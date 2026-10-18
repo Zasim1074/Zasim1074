@@ -13,6 +13,12 @@ I’m a Frontend Developer at FloorWalk Consultants Pvt. Ltd., where I also buil
 - Built the frontend of a real-estate CRM with Next.js, React, and TypeScript, used daily by 10–15 internal users, with role-based access control.
 - Built WebSocket-driven dashboards that push report updates, analytics, and notification counts without a page refresh.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-report-pipeline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/ai-report-pipeline-light.svg">
+  <img src="assets/ai-report-pipeline-light.svg" width="320" alt="Diagram: approved reports are batched weekly to the Claude API, stored in the database, and shown in the client portal">
+</picture>
+
 ## Projects
 - **TrackHire** — Job application tracker for applications, companies, interviews, resumes, and activity. [Live app](https://track-hire-jq.vercel.app) · Repositories: <!-- TODO: frontend repo URL --> · <!-- TODO: confirm https://github.com/Zasim1074/track-hire-api -->  
   Stack: React, TanStack Query, shadcn/ui, FastAPI, PostgreSQL, SQLAlchemy 2.0, Alembic, JWT auth, Pytest, React Testing Library.
