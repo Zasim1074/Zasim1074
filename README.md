@@ -5,19 +5,22 @@ Indore, India | Open to Full Stack roles in Delhi NCR
 [![Email](https://img.shields.io/badge/Email-jaseem1quraishi%40gmail.com-4B5563?style=flat)](mailto:jaseem1quraishi@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat)](https://jaseem-codes.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat)](https://www.linkedin.com/in/jaseem-quraishi) [![Download Resume](https://img.shields.io/badge/Download-Resume-15803D?style=flat)](https://github.com/Zasim1074/Zasim1074/blob/main/resume/Jaseem_Quraishi_Resume.pdf)
 
 ## About
-I’m a Frontend Developer at FloorWalk Consultants Pvt. Ltd., where I also build backend APIs in Python and FastAPI. I have 1+ year of professional experience and am open to relocating from Indore to Delhi NCR for a Full Stack Developer role. My work includes production features, internal tools, and API development. I’m looking for opportunities with product companies.
+<table width="100%">
+  <tr>
+    <td width="64%" valign="middle">
+      <p>I’m a Frontend Developer at FloorWalk Consultants Pvt. Ltd., where I also build backend APIs in Python and FastAPI. I have 1+ year of professional experience and am open to relocating from Indore to Delhi NCR for a Full Stack Developer role. My work includes production features, internal tools, and API development. I’m looking for opportunities with product companies.</p>
+    </td>
+    <td width="36%" align="right" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Software engineer coding at a laptop">
+    </td>
+  </tr>
+</table>
 
 ## What I've Shipped
 - Reduced a production build from 70 MB to 13 MB (about 81%) by removing unused libraries and dead code, compressing images, and adding lazy loading; manual load-time testing improved from roughly 6–8 seconds to 3–4 seconds.
 - Implemented backend APIs for a production AI report-analysis feature: a scheduled weekly job sends approved audit reports in a batch to the Claude API, stores the results in the database, and displays them in the client portal.
 - Built the frontend of a real-estate CRM with Next.js, React, and TypeScript, used daily by 10–15 internal users, with role-based access control.
 - Built WebSocket-driven dashboards that push report updates, analytics, and notification counts without a page refresh.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-report-pipeline-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/ai-report-pipeline-light.svg">
-  <img src="assets/ai-report-pipeline-light.svg" width="320" alt="Diagram: approved reports are batched weekly to the Claude API, stored in the database, and shown in the client portal">
-</picture>
 
 ## Projects
 - **TrackHire** — Job application tracker for applications, companies, interviews, resumes, and activity. [Live app](https://track-hire-jq.vercel.app) · Repositories: <!-- TODO: frontend repo URL --> · <!-- TODO: confirm https://github.com/Zasim1074/track-hire-api -->  
